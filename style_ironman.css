@@ -1,0 +1,61 @@
+.main-image { 
+    margin-top: 70px;
+    height: 300px;
+    text-align: left;
+    opacity: 0.7;
+}
+body {
+    text-align: center;
+    margin: 30px;
+}
+h1 {
+    font-size: 60px;
+    text-align: right;
+    opacity: 0.8;
+    font-family: 'Pridi', serif;
+}
+p {
+    margin: 6px;
+    font-size: 22px;
+    font-family: 'Pridi', serif;
+    font-weight: 200;
+}
+p a {
+    text-decoration: none;
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    margin-top: 50px;
+}
+span{
+    color: black;
+}
+ul {
+    text-align: center;
+    margin-top: 100px;
+}
+ul li a img
+{
+    width: 100px;
+}
+.botao {
+    opacity: 0.8;
+}
+.Anything {
+
+    text-align: center;
+    padding: 15px;
+    margin: 80px;
+    font-size: 35px;
+}
+
+@media (max-width: 640px) {
+   
+    .main-image {
+
+        display: none;
+    }
+
+    }
+
